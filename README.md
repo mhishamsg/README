@@ -14,6 +14,6 @@
   </a> <br>
 </div>
 
-Passionate content creator and editor behind Sahafiun.com, a platform blending lifestyle, technology, arts, and insights for Muslim readers. Building on experience from mhisham.org and The Rojak Place, I curate reactions, reviews, and relevant stories with a focus on informative, community-driven content. Open to press releases at <editor@sahafiun.com>.
+Passionate content creator and editor behind <a href="https://sahafiun.com">Sahafiun.com</a>, a platform blending lifestyle, technology, arts, and insights for Muslim readers. Building on experience from mhisham.org and The Rojak Place, I curate reactions, reviews, and relevant stories with a focus on informative, community-driven content. Open to press releases at <editor@sahafiun.com>.
 
 Let's connect on tech, culture, and more!
